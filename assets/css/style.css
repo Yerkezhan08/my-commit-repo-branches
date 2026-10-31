@@ -11,3 +11,19 @@
 body {
     font-family: "Sixtyfour Convergence", sans-serif;
 }
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    margin-top: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+}
